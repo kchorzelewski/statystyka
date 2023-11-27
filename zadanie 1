@@ -1,0 +1,17 @@
+2. dwa razy na nazwę -> Etykiety tekstowe
+3. dwa razy na nazwę -> etykieta z formułą -> =waga/(wzrost/100)^2
+5. dane -> przekoduj -> (tutaj ustawiamy warunki)
+6. tak jak w punkcie 2
+7. Dane -> przekoduj
+	(v1 = "kobieta" and wzrost < 160) or (v1 = "mężczyzna" and v2 < 170)
+	(v1 = "kobieta" and (v2 >= 160 and v2 <= 170)) or (v1 = "mężczyzna" and (v2 >= 170 and v2 <= 180))
+	(v1 = "kobieta" and v2 > 170) or (v1 = "mężczyzna" and v2 > 180)
+8. tak jak w punkcie 2
+9. dane -> sortuj
+10. format
+11. prawym -> wybierz tylko nazwy zmiennych
+12. dane -> podzbiór -> dane przypadki (zaznaczyć drugi checkbox)
+
+
+
+13. menu -> statystyka -> statystyka opisowa -> dodać zmienną -> wybieramy kartę więcej -> średnią zaliczaną i współczynnik zmienności -> zbiór w jednej tabeli
