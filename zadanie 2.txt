@@ -1,0 +1,31 @@
+statystyka -> analiza mocy testu -> rozkłady prawdopodobieństwa -> rozkład dwumianowy
+
+1. 	a) 0,47178
+	b) 0,74431
+	c) 0,67058280 - 0,35293050 = 0,3176523
+
+2. 0.05989898
+
+Statystyka -> kalkulator prawdopodobieństwa -> stałe
+3.	a) 0,841345
+	b) 0,158655
+	c) 0,725747
+	d) 0,008198
+	e) 0,420740 - 0,211855 = 0,208885
+
+4.	a) 0,044565
+	b) 0,211855
+	c) poniżej 47 punktów
+	d) powyżej 75 punktów
+
+5. 	a) 0,008198
+	b) 0,5
+
+
+excel:
+rozkł.dwum(k;n;p;prawda) 			P(X<=k)
+rozkł.dwum(k;n;p;fałsz)  			P(X=k)
+rozkł.normalny(x;m;{sigma},prawda)	P(X<=x)=P(X<x)
+rozkł.norlamny.odwrotny(p;m;{sigma})
+
+	
