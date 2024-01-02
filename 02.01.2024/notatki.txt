@@ -1,0 +1,14 @@
+h0: waga owoców agrestu ma rozkład normalny
+H1: waga owoców agrestu nie ma rozkładu normalnego
+
+zad 1
+wykresy -> wykres 2w -> wykres normalności -> zaznaczamy test shapiro-wilka -> OK
+
+zad 2
+h0: m=4; czas życia komórek ma rozkład normalny
+h1: m>4; czas życia komórek nie ma rozkładu normalnego
+
+
+statykstyka -> statystyki podstawowe i tabele -> test dla pojedyńczej próby -> podajemy zmienną -> testuj średnią względem (4)
+
+statystyka -> statystyki podstawowe i tabele -> Test t dla prób niezależnych (wzgl. zmn.) -> zaznaczamy test lavene'a i browna i forsytha
