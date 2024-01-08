@@ -1,0 +1,30 @@
+Zadanie 3
+wtkres -> wykres skategoryzowany -> skategoryzoawny wykres normalności -> wiecej -> 
+wtkres -> wykres skategoryzowany -> skategoryzoawny wykres normalności -> wiecej -> test shapiro-wilka
+
+Statystyka -> statystyki podstawowe i tabele -> test dla prób niezależnych (3 opcja) -> zaznaczamy test z niezal. estymacją wariancji
+
+statystyka -> statystyka nieparametryczna -> porównanie dwóch prób niezależnych -> zmienne -> Test u m-w
+
+
+Zadanie 4
+statystyka -> statystyki opisowe i tabele -> inne testy istotności -> średnia z pomiarów 1 a średnia z populacji 2 zaznaczamy
+
+Zadanie 5
+
+r - współczynnik korelacji
+r^2 - współczynnik determinacji
+
+statystyka -> statystyki podstawowe i tabele -> macierze korelacji -> dwie listy zmiennych ->  więcej -> wtkres 2w rozrzutu
+opcje -> wyświetl dokładną tabelę wyników
+
+statystyka -> regresja wieloraka -> zmienne (zmienna zależna IV od I (odwrotnie)) -> OK -> podumowanie: wyniki regresji
+
+
+1. wykres -> wykres 2w -> wykres normalności -> test shapiro-wilka
+
+
+
+H_0: m1=m2 (średnie stężenie siarczanów na obu odcinkach jest takie same)
+H_1: m1<>m2 (średnie stęznienie siarczanów na obu odcinkach jest takie same)
+Sprawdzamy, czy spełnione jest założenie normalności rozkładu (normalnego?)
